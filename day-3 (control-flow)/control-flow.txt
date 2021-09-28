@@ -1,0 +1,6 @@
+Control flow digunakan untuk mengatur arah/proses dari sebuah program dengan mengunakan if/else statement , dengan menggunakan control flow kita bisa mengatur dengan mudah dan komputer dapat menjalannkan program nya dengan lancar tanpa melakukan tabrakan dengan statement yang dibuat oleh si pengembang.
+
+untuk menggunakan if/else statement kita juga membutuhkan operator perbandingan pembantu untuk mengarahkan programnya 
+operator yang digunakan yaitu : 
+    "<" ,   ">" ,   "<=" ,   ">=" ,   "=="  ,   "!="
+
